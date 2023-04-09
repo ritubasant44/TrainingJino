@@ -1,0 +1,51 @@
+.modern_section{
+    width: 350px;
+    margin-right: 50px;
+    height: 475px!important;
+    border-radius: 30px !important;
+}
+.prenext button{
+    display: block;
+    color: #000;
+    background-color: #2e2020;
+    height: 30px;
+    width: 30px;
+}
+.slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
+    color: #000 !important;
+    background-color: #2e2020 !important;
+}
+.text-lg{
+    font-size: 1.125rem!important;
+    line-height: 1.75rem !important;
+}
+.text-white {
+    --tw-text-opacity: 1!important;
+    color: rgb(255 255 255/var(--tw-text-opacity))!important;
+}
+.bg-v5-green-200{
+    --tw-bg-opacity: 1!important;
+    background-color: rgb(2 191 145/var(--tw-bg-opacity))!important;
+}
+.text-xs{
+    font-size:0.75rem !important;
+}
+.top-span{
+    margin-bottom: 10px;
+}
+.modern_section img{
+    width: 329px;
+    height: 200px;
+    margin-left: -87px;
+    max-width: 100%;
+}
+.modernb div{
+    border: 2px solid #000;
+    width: 52px;
+    flex-basis: 40%;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.modernb{
+    margin-bottom: 10px;
+}

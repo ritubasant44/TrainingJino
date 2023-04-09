@@ -1,0 +1,47 @@
+.immersive-center{
+    width: 75%!important;
+    text-align: center !important;
+}
+.immersive-center p{
+    width: 80%!important;
+    margin: auto!important;
+    line-height: 2!important;
+    font-size: 16px!important;
+}
+.immersive_sectionw{ 
+        flex-basis: 42% !important;
+        margin-right: 24px;
+        border-radius: 20px !important;
+        margin-bottom: 20px;
+        position: relative;
+        width: 300px;
+        height: 300px;
+        overflow: visible !important;
+        align-items: center !important;
+}
+.conmargin{
+    margin-top: 65px;
+}
+.immersive_image{
+    height: 100px !important;
+    width: 100px;
+    position: absolute !important;
+    top: -52px !important;
+    position: absolute;
+    /* right: 0; */
+    width: auto;
+    height: 100%;
+    clip: rect(-22px, 117px, 200px, 0px);
+}
+.bg-v5-green-100 {
+    background-color: rgb(45 248 197/var(--tw-bg-opacity))!important;
+}
+.bg-v5-green-100, .bg-white {
+    --tw-bg-opacity: 1!important;
+}
+.w-\[78px\] {
+    width: 78px!important;
+}
+.-mt-\[40px\] {
+    margin-top: -40px!important;
+}
