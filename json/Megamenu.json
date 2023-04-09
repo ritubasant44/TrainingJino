@@ -1,0 +1,81 @@
+[
+    {
+    "title": "Women",
+    "imageUrl": "/products/images/fashionwomen.jpg",
+    "content": [{
+     
+        "title": "Clothing",
+        "url": "/Product",
+        "description": [
+            {"type":"Tshirt"},
+            {"type":"Shirt"},
+            {"type":"Swimsuit"},
+           { "type":"Pant"},
+            {"type":"Skirt"}
+        ]
+      },
+      {
+        "url": "/Product",
+        "title": "Bags",
+        "description": [
+            {"type":"Purse"},
+            {"type":"Hand Bag"}
+          
+        ]
+      },
+      {
+        "url": "/Product",
+        "title": "Accessories",
+        "description": [
+            {"type":"Belt"},
+            {"type":"Goggles"},
+            {"type":"Bracelet"},
+           { "type":"Watch"},
+            {"type":"Hair Gel"}
+        ]
+      }
+    ]
+  },
+ 
+  {
+    "title": "Men",
+    "imageUrl":"/products/images/Product102_Image_1.jpg",
+    "content": [{
+     
+        "title": "Shoes",
+        "url": "/Product",
+        "description": [
+            {"type":"Sports"},
+            {"type":"Sneakers"},
+            {"type":"Casual Shoes"},
+           { "type":"Formal Shoes"},
+            {"type":"Sandals and Slippers"}
+        ]
+      },
+      {
+        "url": "/Product",
+        "title": "Bags",
+        "description": [
+            {"type":"Purse"},
+            {"type":"Hand Bag"},
+            {"type":"Travel Bag"},
+            {"type":"School Bag"}
+          
+        ]
+      },
+      {
+        "url": "/Product",
+        "title": "Accessories",
+        "description": [
+            {"type":"Smart Watch"},
+            {"type":"Goggles"},
+            {"type":"Bracelet"},
+           { "type":"Watch"},
+            {"type":"Hair Gel"},
+            {"type":"belt"}
+        ]
+      }
+    ]
+  }
+  
+]

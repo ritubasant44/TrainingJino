@@ -1,0 +1,111 @@
+[
+    {
+      "id": "101",
+      "name": "food",
+      "children": [
+        {
+            "id": "1001",
+          "name": "fruits",
+          "children": [
+            {
+              
+              "name": "apple",
+              "children": []
+            },
+            {
+               
+              "name": "grape",
+              "children": []
+            },
+            {
+
+              "name": "pineapple",
+              "children": []
+            },
+            {
+              "name": "avocado",
+              "children": []
+            }
+          ]
+        },
+        {
+         "id": "1002",
+          "name": "vegetables",
+          "children": [
+            {
+
+              "name": "onion",
+              "children": []
+            },
+            {
+              "name": "tomato",
+              "children": []
+            },
+            {
+              "name": "potato",
+              "children": []
+            },
+            {
+              "name": "drumsticks",
+              "children": []
+            }
+          ]
+        },
+        {
+            "id": "1003",
+          "name": "groceries",
+          "children": []
+        }
+      ]
+    },
+    {
+        "id": "102",
+      "name": "dress",
+      "children": [
+        {
+            "id": "1001",
+          "name": "Dress for boys",
+          "children": [
+            {
+              "name": "casual dress",
+              "children": []
+            },
+            {
+              "name": "smart casual dress",
+              "children": []
+            },
+            {
+              "name": "business casual dress",
+              "children": []
+            },
+            {
+              "name": "semi formal dress",
+              "children": []
+            }
+          ]
+        },
+        {
+            "id": "1002",
+          "name": "Dress for womens",
+          "children": [
+            {
+              "name": "saree",
+              "children": []
+            },
+            {
+              "name": "Lehenga choli",
+              "children": []
+            },
+            {
+              "name": "kurta",
+              "children": []
+            },
+            {
+              "name": "salwar",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]

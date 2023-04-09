@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "imgPath": { "url": "/images/learn.png" },
+    "desc": "Shivam Bhanushali",
+    "price": "is in",
+    "disprice": "$200",
+    "supetext": "0",
+    "imagedesc": "Headphone",
+    "p": "Independent Project",
+    "t1": "Learn by Working like",
+    "t2": "Professional Developers",
+    "t3": "Learn Full-Stack development or Backend development through an immersive project-based curriculum focused on practical developer skills and real-world scenarios."
+  },
+  {
+    "id": 2,
+    "button": "Only in Fellowship Program",
+    "imgPath": { "url": "/images/gain.png" },
+    "desc": "Shivam Bhanushali",
+    "price": "is in",
+    "disprice": "$200",
+    "supetext": "0",
+    "imagedesc": "Headphone",
+    "p": "Guided Project",
+    "t1": "Gain Work-ex on Problems",
+    "t2": " Given by Real Tech Companies",
+    "t3": "Gain the work experience of building professional software products for India’s top tech companies like CRED, Playment, Jumbotail, Vicara, and others."
+  },
+  {
+    "id": 3,
+    "imgPath": { "url": "/images/learnfrom.png" },
+    "desc": "Shivam Bhanushali",
+    "price": "is in",
+    "disprice": "$200",
+    "supetext": "0",
+    "imagedesc": "Headphone",
+    "p": "Independent Project",
+    "t1": "Learn From Seasoned Industry Professionals in Real Time",
+    "t3": "Participate in activity-based live working sessions facilitated by industry mentors from companies like Microsoft, Flipkart, Nilenso."
+  },
+  {
+    "id": 4,
+    "imgPath": { "url": "/images/get.png" },
+    "desc": "Shivam Bhanushali",
+    "price": "is in",
+    "disprice": "$200",
+    "supetext": "0",
+    "imagedesc": "Headphone",
+    "p": "Guided Project",
+    "t1": "Get career support to break through into ambitious roles",
+    "t4": "Be prepared for every interview and land exciting development jobs with structured planning and personalised guidance & support from Crio career coaches."
+  },
+  {
+    "id": 5,
+    "imgPath": { "url": "/images/build.png" },
+    "desc": "Shivam Bhanushali",
+    "price": "is in",
+    "disprice": "$200",
+    "supetext": "0",
+    "imagedesc": "Headphone",
+    "p": "Independent Project",
+    "t1": "Build a GitHub portfolio that impresses recruiters",
+    "t4": "Go beyond just certificates with a Crio verified project portfolio on GitHub and impress any recruiter at a product based company with your skills and experience."
+  },
+  {
+    "id": 6,
+    "imgPath": { "url": "/images/stand.png" },
+    "desc": "Shivam Bhanushali",
+    "price": "is in",
+    "disprice": "$200",
+    "supetext": "0",
+    "imagedesc": "Headphone",
+    "p": "Independent Project",
+    "t1": "Stand out at interviews with real proof of work",
+    "t4": "Validate your learnings and let your skills shine with a work experience certificate that makes you stand out at interviews."
+  }
+]

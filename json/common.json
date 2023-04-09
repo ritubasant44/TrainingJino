@@ -1,0 +1,66 @@
+[
+    {
+           "Menu_Item": "All",
+           "Action": "https://www.abcd.com/home"
+         },
+         {
+           "Menu_Item": "Buy Again",
+           "Action": "/ProductList"
+         },
+      {
+           "Menu_Item": "Shop Basics",
+           "Action": "https://www.xyz.com/home"
+         },
+   {
+           "Menu_Item": "Shop Home",
+           "Action": "https://www.xyz.com/home"
+         },
+      {
+           "Menu_Item": "Health and Household",
+           "Action": "https://www.xyz.com/home"
+         },
+      {
+           "Menu_Item": "Best Seller",
+           "Action": "https://www.xyz.com/home"
+         },
+      {
+           "Menu_Item": "Home Improvement",
+           "Action": "https://www.xyz.com/home"
+         },
+         {
+            "headertop_add": "Stay with us for more offers",
+            "headertopimage":{"url":"/products/images/imagecenter.png"},
+             "logoimage":{"url":"/products/images/logo.jpg"},
+             "imagedesc": "Website Logo",
+           "logintext": "Login",
+           "myshopping": "Shop Now",
+           "Action": "/ProductList",
+           "h1text": "Children's Furniture",
+           "ptext": "For children and adults, from the classic to the most innovative",
+           "bannerpercent": "50%",
+           "stext1": "Until",
+           "stext2": "off",
+           "topbimage": {"url":"/products/images/children.jpg"},
+           "thirdbanner_product": " It's time to wear your favorite look for the first time",
+           "thirdbanner_disc": "Up to 15% off",
+           "thirdbannerimage2": {"url":"/products/images/thirdbannerimage2.jpg"},
+           "thirdbimage2": {"url":"/products/images/thirdnammer2.jpg"},
+           "thirdbannerlink1": "Women",
+           "thirdbannerlink2": "Clildren",
+           "thirdbannerlink3": "Men",
+           "bannerdisc": "up to 20% discount",
+           "bannerd2sc": "Look for all offers here",
+           "itemdeschead2": "Video games",
+           "itemdeschead": "Other Offers",
+           "bannerheaddesc": "The best interaction tool",
+           "thirdbanner_imageonehead": "Girls clothing",
+           "thirdbanner_imageonepara": "Comfort on every adventure",
+           "thirdbanner_imagetwohead": "Shoes",
+           "thirdbanner_imagetwopara": "Conquer the world at every turn",
+           "thirdbanner_imagethreehead": "Children's clothing ",
+           "thirdbanner_imagethreepara": "Dress for fun"
+          
+       }
+      
+   ]
+   

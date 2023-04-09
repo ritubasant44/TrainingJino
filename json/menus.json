@@ -1,0 +1,82 @@
+[
+    {
+    "title": "Program",
+    "imageUrl": "/products/images/fashionwomen.jpg",
+    "icon": "<ArrowForwardIosOutlinedIcon />",
+    "content": [{
+     
+        "title": "Full Stack Developer Program",
+        "url": "/Product",
+        "description": [
+            {"type":"Become a skilled Full Stack developer with hands-on experience in Javascript and MERN stack."}
+        ]
+      },
+      {
+        "url": "/Product",
+        "title": "Backend Developer Program",
+        "description": [
+            {"type":"Become a skilled Backend developer with hands-on experience in building a scalable web backend."}
+          
+        ]
+      },
+      {
+        "url": "/Product",
+        "title": "Fellowship Program in Software Development",
+        "description": [
+            {"type":"Upskill and land your dream career as a coveted Full-Stack or Backend developer - Guaranteed!"}
+        ]
+      }
+    ]
+  },
+ 
+  {
+    "title": "Hire Crio Developers"
+  },
+  {
+    "title": "Project"
+  },
+  {
+    "title": "Blog"
+  },
+  {
+    "title": "Placement",
+    "imageUrl":"/products/images/Product102_Image_1.jpg",
+    "content": [{
+     
+        "title": "Shoes",
+        "url": "/Product",
+        "description": [
+            {"type":"Sports"},
+            {"type":"Sneakers"},
+            {"type":"Casual Shoes"},
+           { "type":"Formal Shoes"},
+            {"type":"Sandals and Slippers"}
+        ]
+      },
+      {
+        "url": "/Product",
+        "title": "Bags",
+        "description": [
+            {"type":"Purse"},
+            {"type":"Hand Bag"},
+            {"type":"Travel Bag"},
+            {"type":"School Bag"}
+          
+        ]
+      },
+      {
+        "url": "/Product",
+        "title": "Accessories",
+        "description": [
+            {"type":"Smart Watch"},
+            {"type":"Goggles"},
+            {"type":"Bracelet"},
+           { "type":"Watch"},
+            {"type":"Hair Gel"},
+            {"type":"belt"}
+        ]
+      }
+    ]
+  }
+  
+]
